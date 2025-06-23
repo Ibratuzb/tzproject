@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/node": "^20.12.12",
     "@types/react": "^18.3.3",
-    "typescript": "^5.5.2", // Қўшилди
+    "typescript": "^5.5.2",
     "@types/react-hook-form": "^7.45.4"
   }
 }
